@@ -1,2 +1,2 @@
-what's up !
+what's up! man~
 hei ,guys~!
