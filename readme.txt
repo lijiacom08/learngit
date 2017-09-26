@@ -4,4 +4,5 @@ This is a test.
 lijia 
 push to github success!
 create a branch
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
